@@ -4,7 +4,7 @@ project collection
 
 ## index
 
-- [password-generator](password-generator/index.html) 
+- [Password Generator](https://z54.github.io/collection/password-generator/index.html)
 
 ---
 
